@@ -2,7 +2,6 @@
 <Br>
 **<h2>Description:<h2>**
 </Br>
-<Br>
 <p>This repository contains various programs for image processing tasks. The implemented functionalities include:</p>
 <ol>
   <li>1.converting images to grayscale</li>
